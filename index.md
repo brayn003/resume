@@ -6,7 +6,7 @@ layout: default
 ---
 
 # Rudraprasad Das
-Software Engineer | Web Developer | [brayn003@gmail.com](mailto:brayn003@gmail.com?title="Dropping a hi") | [brayn003.github.io](https://brayn003.github.io){:target="_blank"} | [+91-8007029068](tel:+91-8007029068)
+{% include inline-social.html %} | [brayn003.github.io](https://brayn003.github.io){:target="_blank"} | [brayn003@gmail.com](mailto:brayn003@gmail.com?title="Dropping a hi") | [+91-8007029068](tel:+91-8007029068)
 
 ## Skills
 Javascript (50+ projects), React, React Native, Node.js, Express, MongoDB, SQL, Serverless, AWS
