@@ -18,7 +18,7 @@ email: brayn003@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I am Rudraprasad Das. I am a web developer, a passionate teacher and a 
   budding entrepreneur. Do you have an idea that could make a difference in the
-  society, let's get in touch.
+  society? Let's get in touch.
 baseurl: "/resume" # the subpath of your site, e.g. /blog
 url: "https://brayn003.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  brayn003
