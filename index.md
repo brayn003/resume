@@ -24,7 +24,7 @@ Javascript (50+ projects), React, React Native, Node.js, Express, MongoDB, SQL, 
 
 - ***Senior Developer***  at **Cogoport** ( Aug 2018 - May 2019 )  
 **Nautical UI** - Created a React based UI library, inspired by Ant Design for faster and easier development.  
-**Cogo Admin** - Laid foundation and built an internal management system, to handle all the business functions at Cogoport, including sales, operations, finances and customizable dashboards. Used React and Next.js
+**Cogo Admin** - Laid the foundation and built an internal management system, to handle all the business functions at Cogoport, including sales, operations, finances and customizable dashboards. Used React and Next.js.
 
 - ***Tech Partner*** at **Klick Consulting** ( Jan 2018 - Sep 2019 )  
 **[KlickApp](https://github.com/brayn003/klick-new-app){:target="_blank"}** - Created an invoicing web app using React, Redux for frontend and Node.js, Express and MongoDB in backend.
@@ -39,7 +39,7 @@ Javascript (50+ projects), React, React Native, Node.js, Express, MongoDB, SQL, 
 ## Projects
 - **CheapSheet API** - Service to convert Google Sheets to JSON APIs. Built with Next.js, Fastify, React and Sequelize. (In Progress)  
 - **[Code Webinars](https://code-webinars.herokuapp.com){:target="_blank"}** - Landing site for online code webinars. Built with React, Next.js and Mongoose. (In Progress)  
-- **[Useless app](https://play.google.com/store/apps/details?id=com.asphalo.useless){:target="_blank"}** - App that does nothing. Developed using Ionic 2 and Angular.  
+- **[Useless app](https://play.google.com/store/apps/details?id=com.asphalo.useless){:target="_blank"}** - App that does nothing, or does it? Developed using Ionic 2 and Angular.  
 
 ## Education
 **B.E** in **Computer Science** from **Don Bosco Institute of Technology ( Mumbai University )**
