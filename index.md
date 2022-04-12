@@ -8,6 +8,8 @@ layout: default
 # Rudraprasad Das
 {% include inline-social.html %} | [brayn003.github.io](https://brayn003.github.io){:target="_blank"} | [brayn003@gmail.com](mailto:brayn003@gmail.com?title="Dropping a hi") | [+91-8007029068](tel:+91-8007029068)
 
+
+I am an aspirational web developer with a knack for UX. Looking to solve problems through usable designs and pixel-perfect UI.
 ## Skills
 CSS, Javascript, React, Node, MonogDB, Postgres.<br />
 An ever curious mind always looking for problems to solve.
