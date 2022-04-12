@@ -24,13 +24,13 @@ An ever curious mind always looking for problems to solve.
   - Built a team with 26 engineers for developing marketing automation tools.
 
 
-- ***Head of Department*** at **IIDE** ( May 2019 - May 2020 )  
+- (May 2019 - May 2020) ***Head of Department*** at **IIDE**   
   - Found a [private school](https://iide.co/full-stack-developer-course-in-mumbai/){:target="_blank"} to teach Web Development (MERN Stack). 
   - Montored over 200 students in 6 batches
   - Generated $135k (₹1Cr) in revenue.
 
 
-- ***UI Developer***  at **Cogoport** ( Aug 2018 - May 2019 )  
+- (Aug 2018 - May 2019) ***UI Developer***  at **Cogoport**   
   - Architected and developed an ERP system for logistics business.
 <!-- - ***Tech Partner*** at **Klick Consulting** ( Jan 2018 - Sep 2019 )  
 **[KlickApp](https://github.com/brayn003/klick-new-app){:target="_blank"}** - Created an invoicing web app using React, Redux for frontend and Node.js, Express and MongoDB in backend. -->
@@ -38,7 +38,7 @@ An ever curious mind always looking for problems to solve.
 **viropost.com** - Created a social networking site to share pictures and videos using React and Redux. -->
 
 
-- ***UI Developer*** at **Zaya Learning Labs** ( Jun 2016 - Jun 2018 )  
+- (Jun 2016 - Jun 2018) ***UI Developer*** at **Zaya Learning Labs**   
   - Developed UI and installation processes for IOT devices.  
   - Developed a gamified English Learning app using Ionic, Phaser and Angularjs.
 
